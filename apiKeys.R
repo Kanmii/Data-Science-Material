@@ -1,0 +1,7 @@
+#Google Maps API Key
+AIzaSyAueq26b_j0W_S0bF0phOndVLTwL3nHy6k
+
+#Open AI Key
+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
+
+
